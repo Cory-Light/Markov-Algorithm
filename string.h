@@ -5,7 +5,7 @@
 class String
 {
     public:
-        String();
+        //String(string startWord);
         int length();
         char* begin();
         char* end();
@@ -17,4 +17,4 @@ class String
 
     private:
 
-}
+};
